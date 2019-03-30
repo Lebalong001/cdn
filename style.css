@@ -165,7 +165,7 @@ div#menu-st{right:0;position:absolute}
 .menu-social{padding:10px;border-top:1px solid #eee;border-bottom:1px solid #eee;text-align:center}
 .menu-social i,.chuyenmuc i{border:2px solid;border-radius:50px;display:inline-block;height:30px;line-height:26.5px;transition:all .2s;width:30px;font-size:12.5px;color:#333}
 .chuyenmuc li{position:relative;list-style:none;display:inline;text-align:center}
-.chuyenmuc li a{text-decoration:none;font-family:Roboto,&quot;Helvetica Neue&quot;,Helvetica,sans-serif;font-size:14px;padding:7px 10px;border-radius:5px;margin:0;text-transform:uppercase;font-weight:400;transition:all .2s;letter-spacing:0}
+.chuyenmuc li a{text-decoration:none;font-family:Roboto,&quot;Helvetica Neue&quot;,Helvetica,sans-serif;font-size:13px;padding:7px 10px;border-radius:5px;margin:0;text-transform:uppercase;font-weight:600;transition:all .2s;letter-spacing:0}
 .chuyenmuc a:hover,.btn-baimoi a{color:#fff!important;background:#66689b;box-shadow:0 1px 0 rgba(0,0,0,.05),0 3px 3px rgba(0,0,0,.05)}
 .blog-pager i{display:block}
 i.fa.fa-star.tuan{color:#fff;border:2px solid;border-radius:31px;padding:12px;font-size:22px}
