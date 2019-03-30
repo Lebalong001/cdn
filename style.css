@@ -75,7 +75,7 @@ body{background:#f1f1f1;margin:0;margin:0;padding:0;color:#333;font-family:Arial
 .related-post-style-3 li a{font-weight:700!important;font-size:14px;line-height:1.4em}
 .related-post-style-3 .related-post-item-thumbnail{display:block;margin:0;width:40%;height:100px;float:left;object-fit:cover}
 .related-post-item-tooltip{overflow:hidden;width:50%;float:left;text-overflow:ellipsis;padding:10px}
-@media screen and (max-width:480px){.labels{display:none}.related-post-style-3 .related-post-item{width:100%!important}.related-post-style-3 .related-post-item-thumbnail{height:100px!important}}
+@media screen and (max-width:480px){.header a img{    top: -6px;}.labels{display:none}.related-post-style-3 .related-post-item{width:100%!important}.related-post-style-3 .related-post-item-thumbnail{height:100px!important}}
 .post ol li:before{content:counter(li);counter-increment:li;position:absolute;left:-2.5em;top:50%;margin-top:-1em;height:1.5em;width:1.5em;line-height:1.5em;border:2px solid;border-radius:50px;color:#28b8d0;text-align:center}
 .image_src,.not-show,.lande{position:absolute;top:-9768px;left:-9768px}
 .post-body table td,.post-body table caption{padding:10px;text-align:left;vertical-align:top}
